@@ -4,4 +4,5 @@ function nrPare(max){
     }
 }
 
+//folosim exemplul 10
 nrPare(10);
